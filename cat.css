@@ -1,0 +1,22 @@
+.catBox img{
+    margin-left: 10px;
+    width: 320px;
+    height: 210px;
+}
+
+#catList{
+    float: left;
+}
+
+.catBox{
+    width: 340px;
+    margin-left: 150px;
+}
+
+p{
+    margin-left: 10px;
+}
+
+#catClickNum{
+    display: inline;
+}
